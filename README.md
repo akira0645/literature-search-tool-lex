@@ -4,7 +4,6 @@
 
 - 免費、免 API key(OpenAlex 開放使用)
 - 只需要 Node.js,無第三方套件依賴
-- 中文友善的輸出格式
 
 ## 需求
 
@@ -13,7 +12,7 @@
 ## 安裝
 
 ```bash
-git clone https://github.com/<your-username>/literature-search-tool-lex.git
+git clone https://github.com/akira0645/literature-search-tool-lex
 cd literature-search-tool-lex
 ```
 
