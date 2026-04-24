@@ -173,7 +173,7 @@ function buildReport(query, works) {
       lines.push('');
     }
 
-    lines.push('**🔍 理論框架分析**:_(待 Claude 閱讀摘要後填寫)_');
+    lines.push('**🔍 理論框架分析**:_(待閱讀摘要後填寫)_');
     lines.push('');
     lines.push('---');
     lines.push('');
